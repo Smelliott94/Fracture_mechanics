@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/crack-stress/static/css/main.71bd5e9e.chunk.css",
+    "main.js": "/crack-stress/static/js/main.dbbacc33.chunk.js",
+    "main.js.map": "/crack-stress/static/js/main.dbbacc33.chunk.js.map",
+    "runtime-main.js": "/crack-stress/static/js/runtime-main.7525dc2c.js",
+    "runtime-main.js.map": "/crack-stress/static/js/runtime-main.7525dc2c.js.map",
+    "static/js/2.664ee8e1.chunk.js": "/crack-stress/static/js/2.664ee8e1.chunk.js",
+    "static/js/2.664ee8e1.chunk.js.map": "/crack-stress/static/js/2.664ee8e1.chunk.js.map",
+    "index.html": "/crack-stress/index.html",
+    "precache-manifest.b25d12fc9bae39f97810910f4913e791.js": "/crack-stress/precache-manifest.b25d12fc9bae39f97810910f4913e791.js",
+    "service-worker.js": "/crack-stress/service-worker.js",
+    "static/css/main.71bd5e9e.chunk.css.map": "/crack-stress/static/css/main.71bd5e9e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7525dc2c.js",
+    "static/js/2.664ee8e1.chunk.js",
+    "static/css/main.71bd5e9e.chunk.css",
+    "static/js/main.dbbacc33.chunk.js"
+  ]
+}
