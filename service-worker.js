@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Fracture_mechanics/precache-manifest.fd24b0a560039af0b706245a7e39e140.js"
+  "/Fracture_mechanics/precache-manifest.86e14b06f60201a412924f1a03b26ded.js"
 );
 
 self.addEventListener('message', (event) => {
