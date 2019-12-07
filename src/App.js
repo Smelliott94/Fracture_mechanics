@@ -1,14 +1,19 @@
 import React from 'react'
+import Clock from './Clock'
+
 
 class App extends React.Component {
 
-  render() {
+  constructor(props) {
+    super(props)
+    this.state = {
+      running: false,
+      time: 124
+    }
+  }
 
-    return (
-      <div className="container">
-        <span><p>Hello</p></span>
-      </div>
-    )
+  render() {
+    return <Clock />
   }
 }
 
