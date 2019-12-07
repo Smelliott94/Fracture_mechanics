@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Fracture_mechanics/static/css/main.71bd5e9e.chunk.css",
-    "main.js": "/Fracture_mechanics/static/js/main.1b948539.chunk.js",
-    "main.js.map": "/Fracture_mechanics/static/js/main.1b948539.chunk.js.map",
+    "main.js": "/Fracture_mechanics/static/js/main.b67972ba.chunk.js",
+    "main.js.map": "/Fracture_mechanics/static/js/main.b67972ba.chunk.js.map",
     "runtime-main.js": "/Fracture_mechanics/static/js/runtime-main.275520ec.js",
     "runtime-main.js.map": "/Fracture_mechanics/static/js/runtime-main.275520ec.js.map",
-    "static/js/2.5987bf4c.chunk.js": "/Fracture_mechanics/static/js/2.5987bf4c.chunk.js",
-    "static/js/2.5987bf4c.chunk.js.map": "/Fracture_mechanics/static/js/2.5987bf4c.chunk.js.map",
+    "static/js/2.1204e360.chunk.js": "/Fracture_mechanics/static/js/2.1204e360.chunk.js",
+    "static/js/2.1204e360.chunk.js.map": "/Fracture_mechanics/static/js/2.1204e360.chunk.js.map",
     "index.html": "/Fracture_mechanics/index.html",
-    "precache-manifest.86e14b06f60201a412924f1a03b26ded.js": "/Fracture_mechanics/precache-manifest.86e14b06f60201a412924f1a03b26ded.js",
+    "precache-manifest.34b1ec5f768bd405e5ce01b49f05703a.js": "/Fracture_mechanics/precache-manifest.34b1ec5f768bd405e5ce01b49f05703a.js",
     "service-worker.js": "/Fracture_mechanics/service-worker.js",
     "static/css/main.71bd5e9e.chunk.css.map": "/Fracture_mechanics/static/css/main.71bd5e9e.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.275520ec.js",
-    "static/js/2.5987bf4c.chunk.js",
+    "static/js/2.1204e360.chunk.js",
     "static/css/main.71bd5e9e.chunk.css",
-    "static/js/main.1b948539.chunk.js"
+    "static/js/main.b67972ba.chunk.js"
   ]
 }
